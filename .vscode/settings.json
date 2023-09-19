@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "tutorialJavaFXMint/src/ud0"
+    ],
+
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "tutorialJavaFXMint/lib/javafx.base.jar",
+        "tutorialJavaFXMint/lib/javafx.controls.jar",
+        "tutorialJavaFXMitn/lib/javafx.fxml.jar",
+        "tutorialJavaFXMint/lib/javafx.graphics.jar",
+        "tutorialJavaFXMint/lib/javafx.media.jar",
+        "tutorialJavaFXMitn/lib/javafx.swing.jar",
+        "tutorialJavaFXMint/lib/javafx.web.jar",
+        "tutorialJavaFXMint/lib/javafx-swt.jar"
+    ]
+}
