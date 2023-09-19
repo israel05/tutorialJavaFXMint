@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "tutorialJavaFXMint/lib/javafx.base.jar",
+        "tutorialJavaFXMint/lib/javafx.controls.jar",
+        "tutorialJavaFXMint/lib/javafx.fxml.jar",
+        "tutorialJavaFXMint/lib/javafx.graphics.jar",
+        "tutorialJavaFXMint/lib/javafx.media.jar",
+        "tutorialJavaFXMint/lib/javafx.swing.jar",
+        "tutorialJavaFXMint/lib/javafx.web.jar",
+        "tutorialJavaFXMint/lib/javafx-swt.jar"
+    ]
+}
